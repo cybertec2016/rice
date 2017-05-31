@@ -29,7 +29,7 @@ END
 
 if [ -z $1 ]
 then
-	echo -e "Please use the script along with a valid website as an argument.\nexample: ./$0 www.google.com\nDo not use http:// or trailing /, DOMAIN ONLY."
+	echo -e "Please use the script along with a valid website as an argument.\nexample: ./$0 www.facebook.com\nDo not use http:// or trailing /, DOMAIN ONLY."
 exit 1
 fi
 
